@@ -229,4 +229,4 @@ This repository serves as the official landing page for FantaMorph. The software
 **Get the most recent version of FantaMorph today!**
 
 ---
-**Last updated:** 2026-10-18 22:46:10 UTC
+**Last updated:** 2026-10-19 00:48:23 UTC
